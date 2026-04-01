@@ -1,2 +1,2 @@
 # WEEK-1-MODULE-2-PROJECT
-Will show the complete Week 1project for module 2
+Shows the complete Week 1 project for module 2 SQL
